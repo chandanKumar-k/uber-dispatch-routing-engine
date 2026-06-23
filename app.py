@@ -154,4 +154,3 @@ class UberAppSimulator(ctk.CTk):
 if __name__ == "__main__":
     app = UberAppSimulator()
     app.mainloop()
-# this is a beautiful UI design python app 
