@@ -1,6 +1,6 @@
 # 🚖 Intelligent City-Wide Ride-Sharing & Fleet Dispatch Routing Engine
 
-A high-performance backend geospatial routing simulation built in C++ utilizing graph optimization algorithms, paired with an asynchronous Python desktop visualization dashboard interface.
+A high-performance backend geospatial routing simulation built in C++ utilizing graph optimization algorithms, paired with an asynchronous Python desktop visualization dashboard interface.(For a Particular area for an startup )
 
 ## 🛠️ Architecture & Core Components
 - **Algorithmic Routing Pipeline (C++)**: Models an 8-node transportation topology of high-congestion zones in Bangalore using an explicit Adjacency List graph network structure. Min-heap priority queues (`std::priority_queue`) execute Dijkstra’s Shortest Path Algorithm to calculate absolute minimum travel weights.
